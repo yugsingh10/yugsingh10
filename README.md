@@ -1,38 +1,13 @@
-# Ciao! 👋
+##  Le mie passioni
 
-Sono uno studente di Informatica e questo è l'inizio
-del mio portfolio tecnico.
+- informatica
+- tennis
 
-## 👤 Qualcosa su di me
-
-...
-
-## ❤️ Le mie passioni
-
-- ...
-- ...
-- ...
-
-## 💻 Tecnologia ed esperienze
+## Tecnologia ed esperienze
 
 Ho già avuto occasione di utilizzare o conoscere:
 
-- ...
-- ...
-- ...
+- HTML
+- CSS
+- C
 
-## 🧠 Una cosa che potrei insegnare ai miei compagni
-
-...
-
-## 🔍 Cosa mi piacerebbe imparare
-
-...
-
-## 🚀 Un progetto che mi piacerebbe realizzare
-
-...
-
-## 🎯 Guardando al futuro
-
-...
