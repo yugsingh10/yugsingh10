@@ -1,6 +1,6 @@
 ##  Le mie passioni
 
--INFORMATICA
+-INFORMATICA                                                                                             
 -TENNIS
 
 ## Tecnologia ed esperienze
