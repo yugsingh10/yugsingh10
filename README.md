@@ -3,7 +3,7 @@
 -INFORMATICA                                                                                             
 -TENNIS
 
-## Tecnologia ed esperienze
+## 💻 Tecnologia ed esperienze
 
 HO GIA AVUTO ESPERIENZA CON :
 
@@ -14,6 +14,6 @@ HO GIA AVUTO ESPERIENZA CON :
 - FOGLIO DI CALCOLO
 - FLOWGORITHM
 
-## Un progetto che mi piacerebbe realizzare
+## 🚀 Un progetto che mi piacerebbe realizzare
 
 VORREI REALIZZARE UN'INTELLIGENZA ARTIFICIALE 
