@@ -1,7 +1,7 @@
 ##  Le mie passioni
 
-- informatica
-- tennis
+-INFORMATICA
+-TENNIS
 
 ## Tecnologia ed esperienze
 
@@ -14,3 +14,6 @@ Ho già avuto occasione di utilizzare o conoscere:
 - FOGLIO DI CALCOLO
 - FLOWGORITHM
 
+## Un progetto che mi piacerebbe realizzare
+
+VORREI REALIZZARE UN'INTELLIGENZA ARTIFICIALE 
