@@ -5,7 +5,7 @@
 
 ## Tecnologia ed esperienze
 
-Ho già avuto occasione di utilizzare o conoscere:
+HO GIA AVUTO ESPERIENZA CON :
 
 - HTML
 - CSS
