@@ -1,8 +1,8 @@
-## Ciao 👋
+## 👋Ciao 
 
 Sono uno studente di Informatica.
 
-##  Le mie passioni
+## ❤️Le mie passioni
 
 -INFORMATICA                                                                                             
 -TENNIS
